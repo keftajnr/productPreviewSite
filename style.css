@@ -32,14 +32,14 @@ body{
 
 @font-face {
     font-family: 'Montserrat';
-    src: url('fonts/Montserrat-VariableFont_wght.ttf') format('truetype');
+    src: url('Montserrat-VariableFont_wght.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Fraunces';
-    src: url('fonts/Fraunces_72pt-Bold.ttf') format('truetype');
+    src: url('Fraunces_72pt-Bold.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -125,7 +125,7 @@ body{
     }
 
     .image-container img{
-        background-image: url('images/image-product-mobile.jpg');
+        background-image: url('image-product-mobile.jpg');
         width: 370px;
         height: 260px;
         border-end-start-radius: 0;
